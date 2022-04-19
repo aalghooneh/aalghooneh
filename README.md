@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dastan
+- 👋 Hi, I’m Ahmad
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning perception stuff in general
-- 💞️ I’m looking to collaborate on object detection algorithms
+- 🌱 I’m currently doing perception related stuff
+- 💞️ I’m looking for new things to be done in this regards
 - 📫 How to reach me a.alghooneh@gmail.com
 
 <!---
