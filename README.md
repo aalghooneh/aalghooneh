@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad
-- 👀 I’m interested in robotics
+- 👀 I’m interested in computer vision
 - 🌱 I’m currently doing perception related stuff
 - 💞️ I’m looking for new things to be done in this regards
 - 📫 How to reach me a.alghooneh@gmail.com
