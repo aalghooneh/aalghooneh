@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Ahmad, Ph.D. in Mechatronics from UWaterloo.
-- 👀 I’m interested in the intersection of Robotics and Machine Learning.
-- 💞️ I Love LLMs.
-- 📫 How to reach me a.alghooneh@gmail.com
+# 👋 Hi, I'm Ahmad Reza!
+👩🏻‍💻 Software Developer<br/>
+👩🏻‍🎓 Studied Ph.D. of Mechatronics at the University of Waterloo<br/>
+🎨 Trying to make smarter robots with LLMs<br/>
+💭 Currently working with General Motors!<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 💻 Tech Stack
