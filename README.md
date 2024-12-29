@@ -2,6 +2,8 @@
 - 👀 I’m interested in the intersection of Robotics and Machine Learning.
 - 💞️ I Love LLMs.
 - 📫 How to reach me a.alghooneh@gmail.com
+
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
