@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ahmad Reza!
-👩🏻‍💻 Software Developer<br/>
+👩🏻‍💻 I Love to Build Stuff<br/>
 👩🏻‍🎓 Studied Ph.D. of Mechatronics at the University of Waterloo<br/>
-🎨 Trying to make smarter robots with LLMs<br/>
-💭 Currently working with General Motors!<br/>
+🎨 Trying to make smarter Robots with LLMs<br/>
+💭 Currently working as Software Developer with General Motors!<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=aalghooneh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 💻 Programming Languages and Tools
