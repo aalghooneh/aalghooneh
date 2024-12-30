@@ -4,7 +4,7 @@
 🎨 Trying to make smarter robots with LLMs<br/>
 💭 Currently working with General Motors!<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aalghooneh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
