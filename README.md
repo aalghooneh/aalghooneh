@@ -4,7 +4,8 @@
 🤖 Working on smarter robots with LLMs<br/>
 💼 Currently a Software Developer at General Motors!<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=aalghooneh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-self-ten-53.vercel.app
+/api?username=aalghooneh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 # 💻 Programming Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
