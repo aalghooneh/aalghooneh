@@ -1,18 +1,1 @@
-name: Update README
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual triggering
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate README
-        run: |
-          curl -o README.md "https://raw.githubusercontent.com/aalghooneh/aalghooneh/main/README.md"
-      
