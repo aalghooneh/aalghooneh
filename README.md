@@ -3,8 +3,7 @@
 🎓 Studied Ph.D. in Mechatronics at the University of Waterloo<br/>
 🤖 Working on smarter robots with LLMs<br/>
 💼 Currently a Software Developer at General Motors!<br/>
-![](https://github-readme-stats-self-ten-53.vercel.app/api?username=aalghooneh&hide_border=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalghooneh&hide=javascript,css,scss,html&count_private=true&theme=default)
+![](https://github-readme-stats-self-ten-53.vercel.app/api?username=aalghooneh&hide_border=true&show_icon=true&count_private=true)&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalghooneh&hide=javascript,css,scss,html&count_private=true&theme=default)</br>
 # 💻 Programming Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
