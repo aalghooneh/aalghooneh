@@ -3,6 +3,7 @@
 🎓 Studied Ph.D. in Mechatronics at the University of Waterloo<br/>
 🤖 Working on smarter robots with LLMs<br/>
 💼 Currently a Software Developer at General Motors!<br/>
+💼 Currently Working on my Personal Venture Verbal.ai every day :)!<br/>
 ![](https://github-readme-stats-self-ten-53.vercel.app/api?username=aalghooneh&hide_border=true&show_icons=true&count_private=true&v=1)</br>
 ![](https://github-readme-stats-self-ten-53.vercel.app/api/top-langs/?username=aalghooneh&layout=compact&&langs_count=8&hide_border=true&v=1)</br>
 # 💻 Programming Languages and Tools
