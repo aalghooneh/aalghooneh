@@ -4,9 +4,9 @@
 🤖 Advancing robotics with Large Language Models (LLMs)</br>
 💼 Software Developer at General Motors</br>
 
-![](https://github-readme-stats-self-ten-53.vercel.app/api?username=aalghooneh&hide_border=true&show_icons=true&count_private=true)</br>
+<!--![](https://github-readme-stats-self-ten-53.vercel.app/api?username=aalghooneh&hide_border=true&show_icons=true&count_private=true)</br>
 ![](https://github-readme-stats-self-ten-53.vercel.app/api/top-langs/?username=aalghooneh&layout=compact&&langs_count=8&hide_border=true)</br>
-![](https://komarev.com/ghpvc/?username=aalghooneh)</br>
+![](https://komarev.com/ghpvc/?username=aalghooneh)</br>-->
 # 💻 Programming Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
