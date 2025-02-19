@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmad Reza!  ![](https://komarev.com/ghpvc/?username=aalghooneh)</br>
 💻 Passionate about building innovative solutions!</br>
 🎓 Ph.D. in Mechatronics, University of Waterloo</br>
-🤖 Advancing robotics with Large Language Models (LLMs)</br>
+🤖 Advancing robotics with Large Language Models (LLMs) everyday</br>
 💼 Software Developer at General Motors</br>
 
 
