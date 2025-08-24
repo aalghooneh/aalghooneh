@@ -6,7 +6,7 @@
 
 
 ![](https://github-readme-stats-dastans-projects-d7d4bde2.vercel.app/api?username=aalghooneh&hide_border=true&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&&v=2)</br>
-![](https://github-readme-stats-dastans-projects-d7d4bde2.vercel.app/api/top-langs/?username=aalghooneh&layout=compact&&&include_all_commits=true&include_orgs=true&&langs_count=8&hide_border=true&&v=1)</br>
+![](https://github-readme-stats-dastans-projects-d7d4bde2.vercel.app/api/top-langs/?username=aalghooneh&layout=compact&&&include_orgs=true&&langs_count=8&hide_border=true&&v=1)</br>
 
 # 💻 Programming Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
