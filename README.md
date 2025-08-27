@@ -4,6 +4,7 @@
 🤖 Advancing with Large Language Models (LLMs) everyday!</br>
 💼 AI & FullStack developer at General Motors.</br>
 🔥 Working on [my verbal](https://myverbal.ai) everyday!</br>
+🌻 Maybe your garden isn't growing because every time a flower grows, you cut it to show others you're a good gardener!</br>
 
 
 ![](https://github-readme-stats-dastans-projects-d7d4bde2.vercel.app/api?username=aalghooneh&hide_border=true&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&&v=1)</br>
