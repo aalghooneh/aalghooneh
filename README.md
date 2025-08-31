@@ -3,7 +3,7 @@
 🎓 Ph.D. in Mechatronics, University of Waterloo.</br>
 🤖 Advancing with Large Language Models (LLMs) everyday!</br>
 💼 AI & FullStack developer at General Motors.</br>
-🔥 Working on [my verbal](https://myverbal.ai) everyday!</br>
+🔥 Building and Tracking everyday!</br>
 🌻 Maybe your garden isn't growing because every time a flower grows, you cut it to show others you're a good gardener!</br>
 
 
